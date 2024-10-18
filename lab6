@@ -1,9 +1,9 @@
-class A
+class B
 {
-   private int a:
-A()
+   private int B:
+B()
 {
-  a=30;
+  b=30;
 }
 void show()
 {
