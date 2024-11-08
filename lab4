@@ -1,7 +1,7 @@
 public class Sample
 {
   Sample()
-    System.out.println("this is default constructor");
+    
   public static void main(String[]args)
     Sample s=new Sample();
 <!---
