@@ -6,3 +6,5 @@ void show()
 {
   System.out.printlna();
 }
+hello world
+good morning
